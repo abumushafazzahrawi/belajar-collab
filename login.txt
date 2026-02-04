@@ -1,5 +1,5 @@
 Login :
-Email
+no hp
 Password
 Keterangan "Punya akun atau tidak"
 Tombol kirim
